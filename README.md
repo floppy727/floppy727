@@ -123,8 +123,3 @@ Implemented a classifier using gradient descent / logistic regression to predict
 - Data & AI
 - Life long learning
 
----
-
-## GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=floppy727&show_icons=true&theme=default)
