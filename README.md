@@ -20,7 +20,7 @@ Comfortable across the full stack, but strongest in backend, system design, and 
 ## Technologies
 
 **Languages**  
-PHP · SQL · C · C++ · Python · JavaScript · TypeScript · HTML · CSS · Assembly 
+PHP · SQL · C · C++ · Python · Assembly · Lua · JavaScript · TypeScript · HTML · CSS
 
 **Core Strengths**  
 Backend architecture · API design · Distributed systems · SQL & databases  
