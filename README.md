@@ -1,6 +1,6 @@
 # floppy
 
-Backend & systems-oriented developer — **11 years coding**  
+Backend & systems-oriented developer — **11 years of coding**  
 Focused on backend architecture, databases, infrastructure and low-level programming.  
 Fullstack capable, backend by preference. Currently improving my **ASM** & learning **Golang**.  
 
@@ -63,7 +63,7 @@ Bash-like shell: parsing, pipes, redirections, signals, process control.
 **Cybersecurity Piscine (42)** — Security & offensive/defensive fundamentals in Go  
 `Golang · Cybersecurity · Networking · Exploitation · System security`
 
-**KFS — Kernel From Scratch (42)** — Custom kernel in ASM & Rust  
+**KFS — Kernel From Scratch (42)** — Suite project, custom kernel in ASM & Rust  
 `Assembly · Rust · OS internals · Memory · Low-level · Systems`
 
 ---
