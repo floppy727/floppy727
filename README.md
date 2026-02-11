@@ -1,125 +1,73 @@
 # floppy
 
-Backend & systems-oriented software developer with **11 years of programming experience**.  
-Specialized in backend architecture, databases, infrastructure, and low-level programming.  
-Comfortable across the full stack, but strongest in backend, system design, and performance.
+Backend & systems-oriented developer — **11 years coding**  
+Focused on backend architecture, databases, infrastructure and low-level programming.  
+Fullstack capable, backend by preference. Currently improving my **ASM** & learning **Golang**.  
 
 ---
 
-## Profile
+## Stack
 
-- 11+ years programming experience  
-- Backend & distributed architecture focused  
-- Strong database and data processing expertise  
-- Comfortable with fullstack, infrastructure, and deployment  
-- Low-level enthusiast (C / C++), improving Assembly  
-- Currently learning **Golang** and **Rust**
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cpp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/ASM-000000)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
 ---
+## Expertise
 
-## Technologies
+Backend · Distributed systems · APIs · SQL · Security · Deployment · Performance  
+Networking · Concurrency · Memory & debugging · REST / HTTP / Auth  
+Unix internals · Data pipelines · Docker networking · Log analysis · Makefiles  
 
-**Languages**  
-PHP · SQL · C · C++ · Python · Assembly · Lua · JavaScript · TypeScript · HTML · CSS
-
-**Core Strengths**  
-Backend architecture · API design · Distributed systems · SQL & databases  
-System design · Security · Deployment · Automation · Performance · Debugging  
-
-**Environment**  
-Linux · Docker · Git · Shell · Server setup · Low-level debugging  
+Linux · Docker · Git · Shell · Servers · Low-level debugging  
 
 ---
 
 ## Projects
 
-### GTAE — Private Statistics Platform
-Fullstack private platform fully designed, built, secured and deployed alone.  
-Web application used to process, compute and generate statistical reports for the **Tribunal de Commerce de Paris**.  
+**GTAE — Private Statistics Platform**  
+Full system built & deployed alone. Statistical platform for the *Greffe du Tribunal de Commerce de Paris*.  
+`PHP · SQL · Backend · Infra · Security · Bash · Deployment`
 
-**Highlights**
-- Complete system ownership (architecture → backend → frontend → infra → security)
-- Automated data processing & SQL pipeline
-- Deployment, server setup and maintenance
+**ft_transcendence — Distributed Platform (42)**  
+Backend architecture of an online single-page game: API Gateway + microservices, auth, chat, game, Dockerized deployment.  
+`TS · SQL · Microservices · Security · Backend · Docker`
 
-**Tech:** PHP · SQL · HTML/CSS/JS · Shell · Security · Deployment · Infrastructure  
+**ft_irc — IRC Server (C++)**  
+Full IRC server: channels, permissions, file transfer, bot, RFC-inspired.  
+`C++ · Networking · Server architecture`
 
----
+**minishell — Unix Shell (C)**  
+Bash-like shell: parsing, pipes, redirections, signals, process control.  
+`C · Low-level · Unix · Memory`
 
-### ft_transcendence — Distributed Microservices Platform (42)
-
-Designed and implemented the **entire backend architecture** of a distributed web platform in a 4-person team.
-
-**Architecture**
-- API Gateway
-- 4 independent backend microservices
-- Fully Dockerized infrastructure
-
-**Core Features**
-- Authentication & token-based security
-- Real-time user chat & friend system
-- Game logic & gamification
-- Session & security handling
-- Service communication & routing
-- Production-like deployment environment
-
-**Focus**
-Backend architecture · Microservices · Security · Distributed design · Docker · Deployment  
+**Leaffliction — ML Leaf Classifier** — `Python · ML`  
+**DSLR — Logistic Regression** — `Python · Data`
 
 ---
 
-### ft_irc — IRC Server from Scratch (42)
+## Upcoming
 
-Implemented a fully functional **IRC server in C++**, inspired by RFC2812 specifications.
+**Inception of Things (42)** — Kubernetes infrastructure deployment  
+`Kubernetes · Containers · Networking · DevOps · System deployment`
 
-**Features**
-- Multi-client server
-- Channels & permissions system
-- Custom file transfer
-- Integrated IRC bot
-- Networking & protocol handling
+**Cybersecurity Piscine (42)** — Security & offensive/defensive fundamentals in Go  
+`Golang · Cybersecurity · Networking · Exploitation · System security`
 
-**Focus**
-Network programming · Server architecture · Protocol implementation · C++ · Concurrency  
+**KFS — Kernel From Scratch (42)** — Custom kernel in ASM & Rust  
+`Assembly · Rust · OS internals · Memory · Low-level · Systems`
 
 ---
 
-### minishell — Unix Shell Recreation (42)
+## Focus
 
-Rebuilt a functional Unix shell from scratch in **C**, inspired by Bash behavior.
-
-**Features**
-- Command parsing & execution
-- Pipes & redirections
-- Environment variable handling
-- Process & signal management
-- Builtins implementation
-
-**Focus**
-Low-level programming · Unix internals · Process control · Memory management · Parsing  
-
----
-
-### Leaffliction — Plant Disease Classifier (42)
-
-Machine learning model trained to classify plant leaves and detect health condition (healthy, spotted disease, etc.).  
-
-**Tech:** Python · Machine Learning · Image classification · Model training  
-
----
-
-### DSLR — Logistic Regression Classifier (42)
-
-Implemented a classifier using gradient descent / logistic regression to predict Hogwarts house from dataset.  
-
-**Tech:** Python · Logistic regression · Optimization · Data processing  
-
----
-
-## Current Focus
-
-- Advanced backend & distributed architecture  
-- Systems & low-level programming  
-- Data & AI
-- Life long learning
-
+Backend architecture · Systems programming · Performance · Databases · Learning
