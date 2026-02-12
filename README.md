@@ -53,6 +53,7 @@ Bash-like shell: parsing, pipes, redirections, signals, process control.
 **Leaffliction — ML Leaf Classifier** — `Python · ML`  
 **DSLR — Logistic Regression** — `Python · Data`
 
+(And 40 more...)
 ---
 
 ## Upcoming
