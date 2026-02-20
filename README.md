@@ -22,50 +22,55 @@ Fullstack capable, backend by preference. Currently improving my **ASM** & learn
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 
 ---
-## Expertise
+## Expertises
 
 Backend · Distributed systems · APIs · SQL · Security · Deployment · Performance  
-Networking · Concurrency · Memory & debugging · REST / HTTP / Auth  
-Unix internals · Data pipelines · Docker networking · Log analysis · Makefiles  
+Networking · Concurrency · Memory & debugging · REST/HTTP/Auth  
+Unix internals · Data pipelines · Docker networking · Log analysis · Makefiles & Dockerfiles  
 
-Linux · Docker · Git · Shell · Servers · Low-level debugging  
+Linux · Docker · Git · Shell · Kubernetes · ArgoCD · Servers 
 
 ---
 
 ## Projects
 
-**GTAE — Private Statistics Platform**  
-Full system built & deployed alone. Statistical platform for the *Greffe du Tribunal de Commerce de Paris*.  
+**GTAE — Private Statistics Platform (PHP/SQL)**  
+Full system built & deployed alone. Statistical platform for the *Greffe du Tribunal des Activités Economiques de Paris*.  
 `PHP · SQL · Backend · Infra · Security · Bash · Deployment`
 
-**ft_transcendence — Distributed Platform (42)**  
+**ft_transcendence — Distributed Platform (TS)**  
 Backend architecture of an online single-page game: API Gateway + microservices, auth, chat, game, Dockerized deployment.  
 `TS · SQL · Microservices · Security · Backend · Docker`
 
 **ft_irc — IRC Server (C++)**  
 Full IRC server: channels, permissions, file transfer, bot, RFC-inspired.  
-`C++ · Networking · Server architecture`
+`C++ · Networking · OOP · Server architecture`
 
 **minishell — Unix Shell (C)**  
 Bash-like shell: parsing, pipes, redirections, signals, process control.  
-`C · Low-level · Unix · Memory`
+`C · Low-level · Lexing · Parsing · Unix · Memory`
 
-**Leaffliction — ML Leaf Classifier** — `Python · ML`  
-**DSLR — Logistic Regression** — `Python · Data`
+**Leaffliction — ML Leaf Classifier (PY)** && **DSLR — Logistic Regression (PY)**
+Data preprocessing and creation of an image classifier | Self-made data science tools and logistic regression classifier 
+`Python · ML · Data Science · AI · Algorithms`
+
+**Inception of Things (K3S/K3D) — Kubernetes infrastructure deployment**  
+Built and deployed containerized services using shell scripts, k3s/k3d, service networking and cluster orchestration.
+`Shell · Kubernetes · K3S/K3D · Containers · ArgoCD · Networking · DevOps · System deployment`
 <sup><sub>(And 40 more projects...)</sub></sup>
 
 ---
 
 ## Upcoming
 
-**Inception of Things (42)** — Kubernetes infrastructure deployment  
-`Kubernetes · Containers · Networking · DevOps · System deployment`
-
-**Cybersecurity Piscine (42)** — Security & offensive/defensive fundamentals in Go  
+**Cybersecurity Piscine (42)** — Security & offensive/defensive fundamentals in Go (WIP)  
 `Golang · Cybersecurity · Networking · Exploitation · System security`
 
-**KFS — Kernel From Scratch (42)** — Suite project, custom kernel in ASM & Rust  
+**KFS — Kernel From Scratch (42)** — Suite project, custom kernel in ASM & Rust
 `Assembly · Rust · OS internals · Memory · Low-level · Systems`
+
+**BADASS (BGP/GNS3)** — Cisco/GNS3 networking & sysadmin project focused on BGP routing between autonomous systems  
+`BGP · Networking · Routing · Cisco · GNS3 · Infrastructure · Sysadmin`
 
 ---
 
