@@ -1,8 +1,8 @@
 # floppy
 
 Backend & systems-oriented developer | **11 years of coding**  
-Focused on backend architecture, databases, infrastructure and low-level programming.  
-Fullstack capable, backend by preference. Currently improving my **ASM** & learning **Golang**.  
+Specialized in backend architecture, databases, infrastructure and low-level programming.  
+Currently focused on improving my **ASM** & learning **Golang**.
 
 ---
 
