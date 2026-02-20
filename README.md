@@ -50,13 +50,13 @@ Full IRC server: channels, permissions, file transfer, bot, RFC-inspired.
 Bash-like shell: parsing, pipes, redirections, signals, process control.  
 `C · Low-level · Lexing · Parsing · Unix · Memory`
 
-**Leaffliction — ML Leaf Classifier (PY)** && **DSLR — Logistic Regression (PY)**
-Data preprocessing and creation of an image classifier | Self-made data science tools and logistic regression classifier 
-`Python · ML · Data Science · AI · Algorithms`
-
 **Inception of Things (K3S/K3D) — Kubernetes infrastructure deployment**  
 Built and deployed containerized services using shell scripts, k3s/k3d, service networking and cluster orchestration.
 `Shell · Kubernetes · K3S/K3D · Containers · ArgoCD · Networking · DevOps · System deployment`
+
+**Leaffliction — ML Leaf Classifier (PY) & DSLR — Logistic Regression (PY)**
+Data preprocessing and creation of an image classifier & Self-made data science tools and logistic regression classifier.
+`Python · ML · Data Science · AI · Algorithms`
 <sup><sub>(And 40 more projects...)</sub></sup>
 
 ---
