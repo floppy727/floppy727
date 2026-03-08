@@ -69,8 +69,8 @@ Data preprocessing and creation of an image classifier & Self-made data science 
 **KFS — Kernel From Scratch (42)** — Suite project, custom kernel in ASM & Rust
 `Assembly · Rust · OS internals · Memory · Low-level · Systems`
 
-**BADASS (BGP/GNS3)** — Cisco/GNS3 networking & sysadmin project focused on BGP routing between autonomous systems  
-`BGP · Networking · Routing · Cisco · GNS3 · Infrastructure · Sysadmin`
+**BADASS (BGP/GNS3)** — GNS3 networking & sysadmin project focused on BGP routing between autonomous systems  
+`BGP · Networking · Routing · GNS3 · Infrastructure · Sysadmin`
 
 ---
 
