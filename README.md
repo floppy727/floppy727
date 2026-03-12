@@ -2,7 +2,7 @@
 
 Backend & systems-oriented developer | **11 years of coding**  
 Specialized in backend architecture, databases, infrastructure and low-level programming.  
-Currently focused on improving my **ASM** & learning **Golang**.
+Currently focused on improving my **ASM** & learning **Golang** & **Rust**.
 
 ---
 
@@ -25,10 +25,10 @@ Currently focused on improving my **ASM** & learning **Golang**.
 ## Expertises
 
 Backend · Distributed systems · APIs · SQL · Security · Deployment · Performance  
-Networking · Concurrency · Memory & debugging · REST/HTTP/Auth  
-Unix internals · Data pipelines · Docker networking · Log analysis · Makefiles & Dockerfiles  
+Networking · Concurrency · Memory & debugging · REST/HTTP(S)/Auth  
+Unix internals · Data pipelines · Docker networking · Log analysis · Make/Docker/Vagrantfiles  
 
-Linux · Docker · Git · Shell · Kubernetes · ArgoCD · Servers 
+Linux · Docker · Git · Shell · Kubernetes · CI/CD · Servers · VMs 
 
 ---
 
@@ -36,11 +36,11 @@ Linux · Docker · Git · Shell · Kubernetes · ArgoCD · Servers
 
 **GTAE — Private Statistics Platform (PHP/SQL)**  
 Full system built & deployed alone. Statistical platform for the *Greffe du Tribunal des Activités Economiques de Paris*.  
-`PHP · SQL · Backend · Infra · Security · Bash · Deployment`
+`PHP · SQL · Data · Backend · Infra · Security · Bash · Deployment`
 
 **ft_transcendence — Distributed Platform (TS)**  
 Backend architecture of an online single-page game: API Gateway + microservices, auth, chat, game, Dockerized deployment.  
-`TS · SQL · Microservices · Security · Backend · Docker`
+`TS · ORM · Microservices · Security · Backend · Docker · APIs`
 
 **ft_irc — IRC Server (C++)**  
 Full IRC server: channels, permissions, file transfer, bot, RFC-inspired.  
@@ -57,7 +57,7 @@ Built and deployed containerized services using shell scripts, k3s/k3d, service 
 **Leaffliction — ML Leaf Classifier (PY) & DSLR — Logistic Regression (PY)**
 Data preprocessing and creation of an image classifier & Self-made data science tools and logistic regression classifier.
 `Python · ML · Data Science · AI · Algorithms`
-<sup><sub>(And 40 more projects...)</sub></sup>
+<sup><sub>(And 42 more projects...)</sub></sup>
 
 ---
 
@@ -66,11 +66,11 @@ Data preprocessing and creation of an image classifier & Self-made data science 
 **Cybersecurity Piscine (42)** — Security & offensive/defensive fundamentals in Go (WIP)  
 `Golang · Cybersecurity · Networking · Exploitation · System security`
 
+**BADASS (BGP/GNS3)** — GNS3 networking & sysadmin project focused on BGP routing between autonomous systems (WIP)
+`BGP · Networking · Routing · GNS3 · Infrastructure · Sysadmin`
+
 **KFS — Kernel From Scratch (42)** — Suite project, custom kernel in ASM & Rust
 `Assembly · Rust · OS internals · Memory · Low-level · Systems`
-
-**BADASS (BGP/GNS3)** — GNS3 networking & sysadmin project focused on BGP routing between autonomous systems  
-`BGP · Networking · Routing · GNS3 · Infrastructure · Sysadmin`
 
 ---
 
