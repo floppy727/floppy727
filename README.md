@@ -50,7 +50,7 @@ Full IRC server: channels, permissions, file transfer, bot, RFC-inspired.
 Bash-like shell: parsing, pipes, redirections, signals, process control.  
 `C · Low-level · Lexing · Parsing · Unix · Memory`
 
-**Inception of Things (K3S/K3D) — Kubernetes infrastructure deployment**  
+**Inception of Things — Kubernetes infrastructure deployment (K3S/K3D)**  
 Built and deployed containerized services using shell scripts, k3s/k3d, service networking and cluster orchestration.
 `Shell · Kubernetes · K3S/K3D · Containers · ArgoCD · Networking · DevOps · System deployment`
 
