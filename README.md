@@ -57,20 +57,29 @@ Built and deployed containerized services using shell scripts, k3s/k3d, service 
 **Leaffliction — ML Leaf Classifier (PY) & DSLR — Logistic Regression (PY)**
 Data preprocessing and creation of an image classifier & Self-made data science tools and logistic regression classifier.
 `Python · ML · Data Science · AI · Algorithms`
+
+**BADASS — VXLAN & BGP EVPN Network Simulation (GNS3)**
+Designing and deploying a virtual data center network using VXLAN overlays and BGP EVPN with OSPF underlay routing and route reflection for scalable control-plane management.
+`BGP · EVPN · VXLAN · OSPF · Networking · GNS3 · Linux · Infrastructure`
+
+**ComputorV1 — Polynomial Equation Solver (Rust)**
+Parser and solver for polynomial equations up to degree 2. tokenization, reduction, discriminant computation, and formatted step-by-step resolution.
+`Rust · Parsing · Algorithms · CLI · Mathematics · Precision`
 <sup><sub>(And 42 more projects...)</sub></sup>
 
 ---
 
 ## Upcoming
 
+**1000Hz Tablet — Custom Pen Tablet Firmware (Embedded/C/C++) (WIP)**
+Reverse-engineering a digitizer tablet. Coil signals via ADC, reconstructing pen position, streaming high-rate USB HID reports.
+`C/C++ · ESP32 · ADC · Signal Processing · USB HID · FreeRTOS · Embedded · Reverse Engineering`
+
+**KFS — Kernel From Scratch (42)** — Suite project, custom kernel in ASM & C
+`Assembly · C · OS internals · Memory · Low-level · Systems`
+
 **Cybersecurity Piscine (42)** — Security & offensive/defensive fundamentals in Go (WIP)  
 `Golang · Cybersecurity · Networking · Exploitation · System security`
-
-**BADASS (BGP/GNS3)** — GNS3 networking & sysadmin project focused on BGP routing between autonomous systems (WIP)
-`BGP · Networking · Routing · GNS3 · Infrastructure · Sysadmin`
-
-**KFS — Kernel From Scratch (42)** — Suite project, custom kernel in ASM & Rust
-`Assembly · Rust · OS internals · Memory · Low-level · Systems`
 
 ---
 
