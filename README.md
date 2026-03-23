@@ -79,7 +79,7 @@ Reverse-engineering a digitizer tablet. Coil signals via ADC, reconstructing pen
 `Assembly · C · OS internals · Memory · Low-level · Systems`
 
 **Cybersecurity Piscine (42)** — Security & offensive/defensive fundamentals in Go (WIP)  
-`Golang · Cybersecurity · Networking · Exploitation · System security`
+`Golang · Cybersecurity · Networking · Binary exploitation · System security · Reverse engineering · Virus`
 
 ---
 
