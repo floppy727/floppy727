@@ -2,7 +2,7 @@
 
 Backend & systems-oriented developer | **11 years of coding**  
 Specialized in backend architecture, databases, infrastructure and low-level programming.  
-Currently focused on improving my **ASM** & learning **Golang** & **Rust**.
+Currently focused on improving my **ASM** & learning **Rust**.
 
 ---
 
