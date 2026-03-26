@@ -75,10 +75,10 @@ Parser and solver for polynomial equations up to degree 2. tokenization, reducti
 Reverse-engineering a digitizer tablet. Coil signals via ADC, reconstructing pen position, streaming high-rate USB HID reports.
 `C/C++ · ESP32 · ADC · Signal Processing · USB HID · FreeRTOS · Embedded · Reverse Engineering`
 
-**KFS — Kernel From Scratch (42)** — Suite project, custom kernel in ASM & C
+**KFS — Kernel From Scratch (42) — Suite project, custom kernel in ASM & C (WIP)**
 `Assembly · C · OS internals · Memory · Low-level · Systems`
 
-**Cybersecurity Piscine (42)** — Security & offensive/defensive fundamentals in Go (WIP)  
+**Cybersecurity Piscine (42) — Security & offensive/defensive fundamentals in Go (WIP)**  
 `Golang · Cybersecurity · Networking · Binary exploitation · System security · Reverse engineering · Virus`
 
 ---
