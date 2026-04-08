@@ -15,6 +15,7 @@ Currently focused on improving my **ASM** & learning **Rust**.
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cpp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/ASM-000000)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white)
 ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
