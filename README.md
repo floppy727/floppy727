@@ -62,11 +62,11 @@ Built and deployed containerized services using shell scripts, k3s/k3d, service 
 
 | Category | Description |
 |----------|-------------|
-| [Systems & Low-Level](projects/systems.md) | Kernel, memory, embedded, assembly, shells |
-| [Web & Backend](projects/web.md) | APIs, microservices, full-stack platforms |
-| [AI & Data Science](projects/ai.md) | Machine learning, data pipelines, RL |
-| [Infrastructure & Networking](projects/infrastructure.md) | DevOps, containers, networking, cloud |
-| [Security & Cryptography](projects/security.md) | Offensive/defensive, crypto, CTF |
+| [Systems & Low-Level](projects/1_systems.md) | Kernel, memory, embedded, assembly, shells |
+| [Web & Backend](projects/2_web.md) | APIs, microservices, full-stack platforms |
+| [AI & Data Science](projects/3_ai.md) | Machine learning, data pipelines, RL |
+| [Infrastructure & Networking](projects/4_infrastructure.md) | DevOps, containers, networking, cloud |
+| [Security & Cryptography](projects/5_security.md) | Offensive/defensive, crypto, CTF |
 
 ---
 
