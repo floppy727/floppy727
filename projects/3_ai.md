@@ -4,15 +4,15 @@ Projects focused on machine learning, data analysis and scientific computing.
 
 ---
 
-**Learn2Slither — Reinforcement Learning Snake AI (Python)**  
-Q-Learning agent that learns to play Snake autonomously through reinforcement learning.  
-`Python · RL · Q-Learning · AI · Algorithms`  
-[![Repo](https://img.shields.io/badge/GitHub-Learn2Slither-181717?logo=github)](https://github.com/floppy727/Learn2Slither)
-
 **Leaffliction — ML Leaf Classifier (Python)**  
 Data preprocessing and image classification pipeline for plant disease detection using computer vision.  
 `Python · ML · Computer Vision · Data Science · AI`  
 [![Repo](https://img.shields.io/badge/GitHub-leaffliction-181717?logo=github)](https://github.com/floppy727/leaffliction)
+
+**Learn2Slither — Reinforcement Learning Snake AI (Python) (WIP)**  
+Q-Learning agent that learns to play Snake autonomously through reinforcement learning.  
+`Python · RL · Q-Learning · AI · Algorithms`  
+[![Repo](https://img.shields.io/badge/GitHub-Learn2Slither-181717?logo=github)](https://github.com/floppy727/Learn2Slither)
 
 **DSLR — Logistic Regression from Scratch (Python)**  
 Self-made data science tools and logistic regression classifier — data visualization, statistics, gradient descent.  

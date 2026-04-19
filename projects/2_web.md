@@ -19,9 +19,9 @@ Full IRC server: channels, permissions, file transfer, bot, RFC-inspired.
 `C++ · Networking · OOP · Server architecture`  
 [![Repo](https://img.shields.io/badge/GitHub-ft__irc-181717?logo=github)](https://github.com/floppy727/ft_irc)
 
-**matcha — Dating Platform (PHP)**  
+**matcha — Dating Platform (PHP/React)**  
 Full-stack dating web application with matching algorithms, real-time chat, geolocation and profile management.  
-`PHP · Backend · Full-stack · SQL · Web`  
+`PHP · Backend · Full-stack · SQL · React · Web`  
 [![Repo](https://img.shields.io/badge/GitHub-matcha-181717?logo=github)](https://github.com/floppy727/matcha)
 
 **camagru — Instagram-like Platform (PHP)**  
@@ -34,7 +34,7 @@ Intensive PHP/Symfony bootcamp covering MVC architecture, routing, ORM, templati
 `PHP · Symfony · MVC · Web`  
 [![Repo](https://img.shields.io/badge/GitHub-42__Piscine__Symfony-181717?logo=github)](https://github.com/floppy727/42_Piscine_Symfony)
 
-**Mobile Piscine — Cross-platform Mobile Development**  
+**Mobile Piscine — Cross-platform Mobile Development (Flutter)**  
 Intensive bootcamp covering mobile app development fundamentals.  
-`Mobile · Cross-platform`  
+`Mobile · Flutter · Cross-platform`  
 [![Repo](https://img.shields.io/badge/GitHub-42__Piscine__Mobile-181717?logo=github)](https://github.com/floppy727/42_Piscine_Mobile)
