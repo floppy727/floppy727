@@ -1,8 +1,8 @@
 # floppy
 
-Backend & systems-oriented developer | **11 years of coding**  
+Backend & systems-oriented developer | **11 years of coding - 3.5 years of professional experience**  
 Specialized in backend architecture, databases, infrastructure and low-level programming.  
-Currently focused on improving my **ASM** & learning **Rust**.
+Currently focused on improving my **ASM** & learning **Rust/Go**.
 
 ---
 
@@ -32,7 +32,14 @@ Linux · Docker · Git · Shell · Kubernetes · CI/CD · Servers · VMs
 
 ---
 
-## Projects
+## Highlights <sup><sup><sub><sub><sub>(Access to these repos is currently private)  
+**KFS — Kernel From Scratch (ASM/C) (WIP 2/10)**  
+Series of 10 projects to build a full UNIX kernel from scratch mainly in Assembly. IDT/GDT, memory & process management, syscalls, filesystem, modules, full environment.  
+`Kernel · Assembly · C · OS internals · Memory · Low-level · Systems`
+
+**1000Hz Tablet — Custom Pen Tablet Firmware (Embedded/C/C++) (WIP)**  
+Reverse-engineering a Wacom CTH480 EMR tablet to amplify from 133Hz to 1000Hz. Coil signals via ADC, reconstructing pen position, streaming high-rate USB HID reports.  
+`C/C++ · ESP32 · ADC · Performance · Signal Processing · USB HID · Embedded · Reverse Engineering`
 
 **GTAE — Private Statistics Platform (PHP/SQL)**  
 Full system development, testing & deployment. Statistical platform for the *Greffe du Tribunal des Activités Economiques de Paris*.  
@@ -42,45 +49,21 @@ Full system development, testing & deployment. Statistical platform for the *Gre
 Backend architecture of an online single-page game: API Gateway + microservices, auth, chat, game, Dockerized deployment.  
 `TS · ORM · Microservices · Security · Backend · Docker · APIs`
 
-**ft_irc — IRC Server (C++)**  
-Full IRC server: channels, permissions, file transfer, bot, RFC-inspired.  
-`C++ · Networking · OOP · Server architecture`
-
-**minishell — Unix Shell (C)**  
-Bash-like shell: parsing, pipes, redirections, signals, process control.  
-`C · Low-level · Lexing · Parsing · Unix · Memory`
-
-**Inception of Things — Kubernetes infrastructure deployment (K3S/K3D)**  
-Built and deployed containerized services using shell scripts, k3s/k3d, service networking and cluster orchestration.  
-`Shell · Kubernetes · K3S/K3D · Containers · ArgoCD · Networking · DevOps · System deployment`
-
-**Leaffliction — ML Leaf Classifier (PY) & DSLR — Logistic Regression (PY)**  
-Data preprocessing and creation of an image classifier & Self-made data science tools and logistic regression classifier.  
-`Python · ML · Data Science · AI · Algorithms`
-
 **BADASS — VXLAN & BGP EVPN Network Simulation (GNS3)**  
 Designing and deploying a virtual data center network using VXLAN overlays and BGP EVPN with OSPF underlay routing and route reflection for scalable control-plane management.  
 `BGP · EVPN · VXLAN · OSPF · Networking · GNS3 · Linux · Infrastructure`
 
-**ComputorV1 — Polynomial Equation Solver (Rust)**  
-Parser and solver for polynomial equations up to degree 2. Tokenization, reduction, discriminant computation, and formatted step-by-step resolution.  
-`Rust · Parsing · Algorithms · CLI · Mathematics · Precision`  
-<sup><sub>(And 42 more projects...)</sub></sup>
-
 ---
 
-## Upcoming
+## All Projects
 
-**1000Hz Tablet — Custom Pen Tablet Firmware (Embedded/C/C++) (WIP)**  
-Reverse-engineering a wacom CTH480 EMR tablet to amplify from 133hz to 1000hz. Coil signals via ADC, reconstructing pen position, streaming high-rate USB HID reports.  
-`C/C++ · ESP32 · ADC · Performance · Signal Processing · USB HID · Embedded · Reverse Engineering`
-
-**KFS (42) — Kernel From Scratch (ASM/C) (WIP 1/10)**  
-Series of 10 projects to build a full UNIX kernel from scratch. IDT/GDT, memory & process management, syscalls, filesystem, modules, full environment.  
-`Kernel · Assembly · C · OS internals · Memory · Low-level · Systems`
-
-**Cybersecurity Piscine (42) — Security & offensive/defensive fundamentals in Go (WIP)**  
-`Golang · Cybersecurity · Networking · Binary exploitation · System security · Reverse engineering · Virus`
+| Category | Description |
+|----------|-------------|
+| [Systems & Low-Level](projects/systems.md) | Kernel, memory, embedded, assembly, shells |
+| [Web & Backend](projects/web.md) | APIs, microservices, full-stack platforms |
+| [Infrastructure & Networking](projects/infrastructure.md) | DevOps, containers, networking, cloud |
+| [AI & Data Science](projects/ai.md) | Machine learning, data pipelines, RL |
+| [Security & Cryptography](projects/security.md) | Offensive/defensive, crypto, CTF |
 
 ---
 
