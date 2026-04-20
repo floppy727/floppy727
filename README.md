@@ -50,7 +50,6 @@ Full system development, testing & deployment. Statistical platform for the *Gre
 **Leaffliction — ML Leaf Classifier (Python)**  
 Data preprocessing and image classification pipeline for plant disease detection using computer vision.  
 `Python · ML · Computer Vision · Data Science · AI`  
-[![Repo](https://img.shields.io/badge/GitHub-leaffliction-181717?logo=github)](https://github.com/floppy727/leaffliction)
 
 **Inception of Things — Kubernetes Infrastructure Deployment (K3S/K3D)**  
 Built and deployed containerized services using shell scripts, k3s/k3d, service networking and cluster orchestration.  
