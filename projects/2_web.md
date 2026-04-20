@@ -19,14 +19,14 @@ Full IRC server: channels, permissions, file transfer, bot, RFC-inspired.
 `C++ · Networking · OOP · Server architecture`  
 [![Repo](https://img.shields.io/badge/GitHub-ft__irc-181717?logo=github)](https://github.com/floppy727/ft_irc)
 
-**matcha — Dating Platform (PHP/React)**  
+**matcha — Dating Platform (PHP/React) (WIP)**  
 Full-stack dating web application with matching algorithms, real-time chat, geolocation and profile management.  
-`PHP · Backend · Full-stack · SQL · React · Web`  
+`PHP · Backend · Full-stack · OOP · SQL · React · Web`  
 [![Repo](https://img.shields.io/badge/GitHub-matcha-181717?logo=github)](https://github.com/floppy727/matcha)
 
 **camagru — Instagram-like Platform (PHP)**  
 Photo sharing and editing web application with user authentication, image composition and social features.  
-`PHP · Backend · Web · SQL`  
+`PHP · Backend · Web · OOP · SQL`  
 [![Repo](https://img.shields.io/badge/GitHub-camagru-181717?logo=github)](https://github.com/floppy727/camagru)
 
 **Symfony Piscine — Web Framework Intensive (PHP/Symfony)**  
