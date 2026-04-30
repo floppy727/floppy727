@@ -4,7 +4,7 @@ Projects focused on cybersecurity, cryptography, offensive/defensive techniques 
 
 ---
 
-**Cybersecurity Piscine — Offensive & Defensive Fundamentals (Go)**  
+**Cybersecurity Piscine — Offensive & Defensive Fundamentals (GO)**  
 Security bootcamp covering binary exploitation, reverse engineering, networking attacks, web security and virus design.  
 `Golang · Cybersecurity · Networking · Binary exploitation · System security · Reverse engineering · Virus`  
 [![Repo](https://img.shields.io/badge/GitHub-42__Piscine__Cybersecurity-181717?logo=github)](https://github.com/floppy727/42_Piscine_Cybersecurity)

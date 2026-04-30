@@ -4,12 +4,12 @@ Projects focused on kernel development, memory management, embedded systems and 
 
 ---
 
-**1000Hz Tablet — Custom Pen Tablet Firmware (Embedded/C/C++) (WIP)**  
+**1000Hz Tablet — Custom Pen Tablet Firmware (Embedded/C/C++) (PROTOTYPING PHASE)**  
 Reverse-engineering a Wacom CTH480 EMR tablet to amplify from 133Hz to 1000Hz. Coil signals via ADC, reconstructing pen position, streaming high-rate USB HID reports.  
 `C/C++ · ESP32 · ADC · Performance · Signal Processing · USB HID · Embedded · Reverse Engineering`  
 [![Repo](https://img.shields.io/badge/GitHub-1000hz__tablet-181717?logo=github)](https://github.com/floppy727/1000hz_tablet)
 
-**KFS — Kernel From Scratch (ASM/C) (WIP 2/10)**  
+**KFS — Kernel From Scratch (ASM/C) (WIP 3/10)**  
 Series of 10 projects to build a full UNIX kernel from scratch mainly in Assembly. IDT/GDT, memory & process management, syscalls, filesystem, modules, full environment.  
 `Kernel · Assembly · C · OS internals · Memory · Low-level · Systems`  
 [![Repo](https://img.shields.io/badge/GitHub-KFS-181717?logo=github)](https://github.com/floppy727/KFS)
