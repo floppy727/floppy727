@@ -39,9 +39,9 @@ Linux · Docker · Git · Shell · Kubernetes · CI/CD · Servers · VMs
 Reverse-engineering a Wacom CTH480 EMR tablet to amplify from 133Hz to 1000Hz. Coil signals via ADC, reconstructing pen position, streaming high-rate USB HID reports.  
 `C/C++ · ESP32 · ADC · Performance · Signal Processing · USB HID · Embedded · Reverse Engineering`
 
-**KFS — Kernel From Scratch (ASM/C) (WIP 3/10)**  
+**KFS — Kernel From Scratch (ASM) (WIP 3/10)**  
 Series of 10 projects to build a full UNIX kernel from scratch mainly in Assembly. IDT/GDT, memory & process management, syscalls, filesystem, modules, full environment.  
-`Kernel · Assembly · C · OS internals · Memory · Low-level · Systems`
+`Kernel · Assembly · OS internals · Memory · Low-level · Systems`
 
 **GTAE — Private Statistics Platform (PHP/SQL)**  
 Full system development, testing & deployment. Statistical platform for the *Greffe du Tribunal des Activités Economiques de Paris*.  
