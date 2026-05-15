@@ -37,7 +37,7 @@ Linux · Docker · Git · Shell · Kubernetes · CI/CD · Servers · VMs
 
 **1000Hz Tablet — Custom Pen Tablet Firmware (Embedded/C/C++) (Rev1 done, working on Rev2)**  
 Reverse-engineering a Wacom CTH480 EMR tablet to amplify from 133Hz to 1000Hz. Coil signals via ADC, reconstructing pen position, streaming high-rate USB HID reports.  
-`C/C++ · ESP32 · ADC · Performance · Signal Processing · USB HID · Embedded · Reverse Engineering`
+`C/C++ · ESP32 · STM · ADC · Performance · Signal Processing · USB HID · Embedded · Reverse Engineering`
 
 **KFS — Kernel From Scratch (ASM) (WIP 3-4/10)**  
 Series of 10 projects to build a full UNIX kernel from scratch mainly in Assembly. IDT/GDT, memory & process management, syscalls, filesystem, modules, full environment.  
