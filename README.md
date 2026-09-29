@@ -1,6 +1,6 @@
 # floppy
 
-Backend & systems-oriented developer | **11 years of coding - 3.5 years of professional experience**  
+Backend & systems-oriented developer | **12 years of coding - 4 years of professional experience**  
 Specialized in backend architecture, databases, infrastructure and low-level programming.  
 Currently focused on improving my **ASM** & learning **Rust/Go**.
 
